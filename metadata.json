@@ -1,0 +1,8 @@
+{
+  "name": "DeepSeek Harness Docs & Architecture Explorer",
+  "description": "Interactive documentation browser, architectural decision explorer, and knowledge navigator for DeepSeek Harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
