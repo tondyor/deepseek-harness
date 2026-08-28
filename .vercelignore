@@ -20,12 +20,10 @@ website
 *.log
 .env
 .env.*
-.vercel
-dist
-build
-coverage
-.tmp
-website/.generated
-website/.cache
-website/.dist
-apps/preview/dist
+  .vercel
+  build
+  coverage
+  .tmp
+  website/.generated
+  website/.cache
+  website/.dist

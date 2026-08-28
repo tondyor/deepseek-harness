@@ -1,8 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
-  "buildCommand": "cd apps/preview && npm install --no-audit --no-fund --loglevel=error && npm run build",
-  "installCommand": "cd apps/preview && npm install --no-audit --no-fund --loglevel=error",
+  "buildCommand": null,
+  "installCommand": null,
   "outputDirectory": "apps/preview/dist",
   "trailingSlash": false,
   "cleanUrls": false
