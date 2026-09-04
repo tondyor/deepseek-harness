@@ -7,24 +7,22 @@ node_modules
 .gitlab-ci.yml
 .vscode
 assets
-!apps/preview/dist/assets
 examples
 native
-node_modules
 packages
 patches
 python
 scripts
 vendor
 website
-!apps/preview/node_modules
 *.log
 .env
 .env.*
-  .vercel
-  build
-  coverage
-  .tmp
-  website/.generated
-  website/.cache
-  website/.dist
+.vercel
+coverage
+.tmp
+website/.generated
+website/.cache
+website/.dist
+!apps/preview/dist
+!apps/preview/dist/**
