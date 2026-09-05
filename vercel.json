@@ -3,7 +3,7 @@
   "framework": null,
   "buildCommand": "echo skip",
   "installCommand": "echo skip",
-  "outputDirectory": "apps/preview/dist",
+  "outputDirectory": "apps/studio/dist",
   "trailingSlash": false,
   "cleanUrls": false
 }
